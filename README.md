@@ -1,6 +1,6 @@
-# ⌚ Calculadoras Horas Extras
+# ⌚ Calculadoras RH
 
-Bem-vindo ao **Calculadoras Horas Extras**! Este site foi criado para facilitar o cálculo de diferentes aspectos financeiros e operacionais no ambiente de trabalho.
+Bem-vindo ao **Calculadoras RH**! Este site foi criado para facilitar o cálculo de diferentes aspectos financeiros e operacionais no ambiente de trabalho.
 
  ✨ Funcionalidades
 
